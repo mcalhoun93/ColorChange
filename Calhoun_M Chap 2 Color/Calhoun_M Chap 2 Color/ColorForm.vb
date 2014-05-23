@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class ColorForm
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         Me.ForeColor = SystemColors.ControlText
